@@ -1,0 +1,25 @@
+{
+  "name": "number-in-words-irwin",
+  "version": "0.0.2",
+  "description": "this npm use to show number in words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darwins-fox-2017/npm-package.git"
+  },
+  "keywords": [
+    "number",
+    "in",
+    "words",
+    "number-in-words"
+  ],
+  "author": "irwinpratajaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darwins-fox-2017/npm-package/issues"
+  },
+  "homepage": "https://github.com/darwins-fox-2017/npm-package#readme"
+}
